@@ -76,47 +76,44 @@ Main questions to be included in the dashboard depends on the stakeholder reques
 ## Observations  
 
 ### Sales CY vs PY
-Overall Sales of **$733K** were made during the year 2022.
-Compared to previous year the overall sales were **better** with a **20.36% increase** in sales count.
-The sales in months of **May, December** have **declined** compared to previous year. 
-**November** recorded the **maximum** sales with around **$118K**.
-**February** recorded the **minimum** sales with around **$20K**. 
+- Overall Sales of **$733K** were made during the year 2022.
+- Compared to previous year the overall sales were **better** with a **20.36% increase** in sales count.
+- The sales in months of **May, December** have **declined** compared to previous year. 
+- **November** recorded the **maximum** sales with around **$118K**.
+- **February** recorded the **minimum** sales with around **$20K**. 
 
 ### Profit CY vs PY
-Overall Profits of **$93K** were made during the year 2022.
-Compared to previous year the overall profits were **better** with a **14.24% increase**.
-The sales in months of May, December have declined compared to previous year. But this is not by a large margin.
-**March** recorded the maximum profits with around **$14.7K**.
-**April** recorded the minimum profits with just **$933**.
-The main notable observation is the profits for **October and December** have **declined** substantially compared to previous year. 
+- Overall Profits of **$93K** were made during the year 2022.
+- Compared to previous year the overall profits were **better** with a **14.24% increase**.
+- The sales in months of May, December have declined compared to previous year. But this is not by a large margin.
+- **March** recorded the maximum profits with around **$14.7K**.
+- **April** recorded the minimum profits with just **$933**.
+- The main notable observation is the profits for **October and December** have **declined** substantially compared to previous year. 
 For October, there is decline in sales quantity, sales amount with respect to previous year.
 **December profits** took a **hit**.
 
 ### Orders CY vs PY
-The quantity of products sold the current year is around **12K** and there is **26.83% increase** in the selling rate.
-Every month the number of items sold are more compared to previous year.
-This suggests that even though more products were sold during October, December we had a loss, so **either we sold the products from which we couldn’t make decent profits or sold the high MRP products at lower price.**
+- The quantity of products sold the current year is around **12K** and there is **26.83% increase** in the selling rate.
+- Every month the number of items sold are more compared to previous year.
+- This suggests that even though more products were sold during October, December we had a loss, so **either we sold the products from which we couldn’t make decent profits or sold the high MRP products at lower price.**
 
 ### Sales and Profit distribution by State
-The analysis was further breakdown statewise to see the Sales and Profit distribution simultaneously. 
-**California, NewYork** have the **highest** sales and **District of Columbia** have **very low** sales.
-**California, NewYork** have the **highest** profits and **Texas and Illinois** have more losses.
-This gives a quick overview of performance of various states with respect to the overall country market.
-The comparison with respect to the country’s average has been done, which indicates most of the states have done better than the country’s average value.
+- The analysis was further breakdown statewise to see the Sales and Profit distribution simultaneously. 
+- **California, NewYork** have the **highest** sales and **District of Columbia** have **very low** sales.
+- **California, NewYork** have the **highest** profits and **Texas and Illinois** have more losses.
+- This gives a quick overview of performance of various states with respect to the overall country market.
+- The comparison with respect to the country’s average has been done, which indicates most of the states have done better than the country’s average value.
 
 ### Monthly Sales/Profit/Quantity by Segment.
-Analysis was broken down to Customer Segments - Consumer, Corporate, HomeOffice.
-From September, the Total Quantity has been around or more than the average value of across each of the segments.
-Total Sales is less than the average value for most of the months across the segments.
-**Highest profit ($9.68K)** was obtained during March by **Consumer goods.** 
-**Lowest profit (-$2.42K)** was during April by **Home Office goods.** 
+- Analysis was broken down to Customer Segments - Consumer, Corporate, HomeOffice.
+- From September, the Total Quantity has been around or more than the average value of across each of the segments.
+- Total Sales is less than the average value for most of the months across the segments.
+- **Highest profit ($9.68K)** was obtained during March by **Consumer goods.** 
+- **Lowest profit (-$2.42K)** was during April by **Home Office goods.** 
 
 ### Sales by location and manager.
-The **western** region has the **largest** sales of **250.13K** which is around the sales obtained by south and central regions combined.
-The **southern** region has the **lowest** sales of 122.9K.
-
-
-
+- The **western** region has the **largest** sales of **250.13K** which is around the sales obtained by south and central regions combined.
+- The **southern** region has the **lowest** sales of 122.9K.
 
 ## End Result
 Highly interactive tableau dashboard is created with proper visualizations that captures the required KPI values.
@@ -124,7 +121,7 @@ The above analysis can be even filtered out further based on:
 - Region (East, West, Central, South)
 - Category (Furniture, Office Supplies, Technology)
 - Shipping Mode (First Class, Second Class, Standard Class, Same Day).
-- 
+
 For example: We incurred a loss in the Furniture category and most of it occurred in October within the corporate category.
 
 
