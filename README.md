@@ -62,7 +62,7 @@ The column names are self explanatory.
 The year on year sales analysis is done for the United States.
 Current Year: 2022
 
-### Sales KPI dashboard
+## Sales KPI dashboard
 
 Main questions to be included in the dashboard depends on the stakeholder requests. The below are few main aspects to consider:
 
