@@ -36,26 +36,26 @@ The highly interactive dashboards allow users to drill down into the data and ex
 We have the sales data, where each row represents an order/sale made by the company.
 The major attributes are:
 
-Orders Table
-Order ID	
-Order Date	
-Ship Date	
-Ship Mode (First Class, Second Class, Standard Class, Same day)
-Customer ID	
-Customer Name	
-Segment	(Consumer, Corporate, Home Office)
-City	
-State/Province	
-Postal Code	
-Region	
-Product ID	
-Category	
-Sub-Category	
-Product Name
+**Orders Table**
+- Order ID	
+- Order Date	
+- Ship Date	
+- Ship Mode (First Class, Second Class, Standard Class, Same day)
+- Customer ID	
+- Customer Name	
+- Segment	(Consumer, Corporate, Home Office)
+- City	
+- State/Province	
+- Postal Code	
+- Region	
+- Product ID	
+- Category	
+- Sub-Category	
+- Product Name
 
-People Table
-Region
-Regional Manager
+**People Table**
+- Region
+- Regional Manager
 
 The column names are self explanatory.
 
