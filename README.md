@@ -74,7 +74,7 @@ Main questions to be included in the dashboard depends on the stakeholder reques
 - Sales by location and manager.
 
 #### Static Dashboard image
-![dashboard image](us_superstore_dashboard.png)
+![dashboard image](./us_superstore_dashboard.png)
 
 ## Observations  
 
