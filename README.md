@@ -73,6 +73,9 @@ Main questions to be included in the dashboard depends on the stakeholder reques
 - Monthly Sales/Profit/Quantity by Segment.
 - Sales by location and manager.
 
+#### Static Dashboard image
+![dashboard image](us_superstore_dashboard.png)
+
 ## Observations  
 
 ### Sales CY vs PY
