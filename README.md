@@ -3,6 +3,9 @@ Design a tableau dashboard to track the year on year KPI.
 
 https://public.tableau.com/app/profile/venkata.r.k.kanna/viz/usa_sales/SalesDashboard  
 
+#### Static Dashboard image
+![dashboard image](./us_superstore_dashboard.png)
+
 ## Purpose
 
 Companies want to offer better service for their customers and improve their business growth and achieve their respective targets or goals. By analyzing the sales data of the company, one can see how the company is performing. Has the performance improved or declined? Where is the company losing its sales? Many other questions can be answered with the sales analysis.
@@ -73,8 +76,6 @@ Main questions to be included in the dashboard depends on the stakeholder reques
 - Monthly Sales/Profit/Quantity by Segment.
 - Sales by location and manager.
 
-#### Static Dashboard image
-![dashboard image](./us_superstore_dashboard.png)
 
 ## Observations  
 
